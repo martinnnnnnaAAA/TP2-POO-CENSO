@@ -1,0 +1,15 @@
+Z:\TP 2 POO CENSO\bin\Debug\net7.0\TP 2 POO CENSO.exe
+Z:\TP 2 POO CENSO\bin\Debug\net7.0\TP 2 POO CENSO.deps.json
+Z:\TP 2 POO CENSO\bin\Debug\net7.0\TP 2 POO CENSO.runtimeconfig.json
+Z:\TP 2 POO CENSO\bin\Debug\net7.0\TP 2 POO CENSO.dll
+Z:\TP 2 POO CENSO\bin\Debug\net7.0\TP 2 POO CENSO.pdb
+Z:\TP 2 POO CENSO\obj\Debug\net7.0\TP 2 POO CENSO.csproj.AssemblyReference.cache
+Z:\TP 2 POO CENSO\obj\Debug\net7.0\TP 2 POO CENSO.GeneratedMSBuildEditorConfig.editorconfig
+Z:\TP 2 POO CENSO\obj\Debug\net7.0\TP 2 POO CENSO.AssemblyInfoInputs.cache
+Z:\TP 2 POO CENSO\obj\Debug\net7.0\TP 2 POO CENSO.AssemblyInfo.cs
+Z:\TP 2 POO CENSO\obj\Debug\net7.0\TP 2 POO CENSO.csproj.CoreCompileInputs.cache
+Z:\TP 2 POO CENSO\obj\Debug\net7.0\TP 2 POO CENSO.dll
+Z:\TP 2 POO CENSO\obj\Debug\net7.0\refint\TP 2 POO CENSO.dll
+Z:\TP 2 POO CENSO\obj\Debug\net7.0\TP 2 POO CENSO.pdb
+Z:\TP 2 POO CENSO\obj\Debug\net7.0\TP 2 POO CENSO.genruntimeconfig.cache
+Z:\TP 2 POO CENSO\obj\Debug\net7.0\ref\TP 2 POO CENSO.dll
